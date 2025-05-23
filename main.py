@@ -10,6 +10,7 @@ t.speed(0)
 t.hideturtle()
 
 
+
 t.penup()
 t.goto(-400, -100)
 t.color("limegreen")
